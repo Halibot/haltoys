@@ -1,0 +1,30 @@
+{
+	"modules":[
+		{
+			"name":"Cat",
+			"path":"cat.py"
+		},{
+			"name":"Ddg",
+			"path":"ddg.py"
+		},{
+			"name":"Greeting",
+			"path":"greeting.py"
+		},{
+			"name":"Haiku",
+			"path":"haiku.py"
+		},{
+			"name":"Quote",
+			"path":"quote.py"
+		},{
+			"name":"Spell",
+			"path":"spell.py"
+		},{
+			"name":"Toys",
+			"path":"toys.py"
+		},{
+			"name":"Xkcd",
+			"path":"xkcd.py"
+		}
+	]
+
+}

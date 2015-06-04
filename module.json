@@ -13,6 +13,9 @@
 			"name":"Haiku",
 			"path":"haiku.py"
 		},{
+			"name":"Link",
+			"path":"link.py"
+		},{
 			"name":"Quote",
 			"path":"quote.py"
 		},{
